@@ -61,7 +61,6 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <br>
 <br>
 <br>
-<br>
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Languages I Know</h2>
 
 <div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
