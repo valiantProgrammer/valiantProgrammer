@@ -7,7 +7,7 @@
 </p>
 
 <div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); border-radius: 15px; border: 2px solid #00FFD4; box-shadow: 0 0 20px rgba(0, 255, 212, 0.2);">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=35&duration=5000&pause=500&color=00FFD4&center=true&width=700&lines=Hello,+Myself;Hola+yo+mismo;こんにちは+私です;नमस्ते,+मैं+हूँ।;হ্যালো,+আমি" alt="Greeting" style="width: 100%; margin-bottom: 20px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=35&duration=5000&pause=500&color=00FFD4&center=true&width=700&lines=Hello,+Myself;Hola+yo+mismo" alt="Greeting" style="width: 100%; margin-bottom: 20px;" />
   <h1 style="color: #00FFD4; text-shadow: 0 0 15px rgba(0, 255, 212, 0.6); font-size: 48px; margin: 0; font-weight: 900; letter-spacing: 2px;">Rupayan Dey</h1>
 </div>
 
