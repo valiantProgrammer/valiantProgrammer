@@ -49,10 +49,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </tbody>
 </table>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
-<br>
-<br>
-<br>
-<br>
+
 <p><strong>Key Strengths:</strong></p>
 <ul style="color: #00FFD4;">
 <li> Problem-solving & Algorithm Design</li>
@@ -61,7 +58,10 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <li> Clean Code & Best Practices</li>
 <li> Team Collaboration</li>
 </ul>
-
+<br>
+<br>
+<br>
+<br>
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Languages I Know</h2>
 
 <div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
