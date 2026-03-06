@@ -1,3 +1,4 @@
+
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
 
 <p align="center">
@@ -18,22 +19,46 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📋 Professional Summary</h2>
 
-| Course | Institution | Timeline |
-|-----|-----|---|
-| Secondary Examination |Krishnapur Adarsha Vidhyamandir | 2021-2022 |
-| Higher Secondary Examination | Bidhannagar Government High School | 2023-2024 |
-| Bachelor of Technology in Computer Science Engineering specialization with Artificial Intelligence And Mechine Learning | Techno Main Salt Lake | 2024-2028 |
+<table style="width: 100%; border-collapse: separate; border-spacing: 0; margin: 20px 0; border-radius: 15px; overflow: hidden; background-color: #0f1d22;">
+<thead>
+<tr>
+<th style="background-color: #0d2b32;  padding: 15px; text-align: left; font-weight: bold;">Course</th>
+<th style="background-color: #0d2b32; padding: 15px;text-align: left; font-weight: bold;">Institution</th>
+<th style="background-color: #0d2b32;  padding: 15px;  text-align: left; font-weight: bold;">Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 15px; color: #FFFFFF;">Secondary Examination</td>
+<td style="padding: 15px; color: #FFFFFF;">Krishnapur Adarsha Vidhyamandir</td>
+<td style="padding: 15px; color: #00FFD4; font-weight: bold;">2021-2022</td>
+</tr>
+<tr>
+<td style="padding: 15px; color: #FFFFFF;">Higher Secondary Examination</td>
+<td style="padding: 15px; color: #FFFFFF;">Bidhannagar Government High School</td>
+<td style="padding: 15px; color: #00FFD4; font-weight: bold;">2023-2024</td>
+</tr>
+<tr>
+<tr colspan="3" style="padding: 15px; color: #FFFFFF;">
+<td><strong>Bachelor of Technology in Computer Science Engineering</strong> specialization with Artificial Intelligence And Machine Learning </td> <td> <strong>Techno Main Salt Lake</strong> </td><td> <span style=" font-weight: bold;">(2024-2028)</span>
+</td>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
 ---
 
-**Key Strengths:**
-- 💡 Problem-solving & Algorithm Design
-- 🚀 Full-Stack Development
-- 🔧 DevOps & System Design
-- 📚 Clean Code & Best Practices
-- 🤝 Team Collaboration
+<p><strong>Key Strengths:</strong></p>
+<ul style="color: #00FFD4;">
+<li>💡 Problem-solving & Algorithm Design</li>
+<li>🚀 Full-Stack Development</li>
+<li>🔧 DevOps & System Design</li>
+<li>📚 Clean Code & Best Practices</li>
+<li>🤝 Team Collaboration</li>
+</ul>
 
 ---
 
@@ -50,7 +75,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <h3 style="color: #00FFD4;">🔥 Streak Stats</h3>
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark" alt="GitHub Streak">
 
 </div>
 
@@ -64,11 +89,11 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">💻 Languages I Know</h2>
 
-<div align="center" style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
+<div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
 
 
 <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50" alt="C++">
-<img src="Java logo.gif" width="100" alt="Java">
+<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50" alt="Java">
 <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Python">
 <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="50" alt="Rust">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="TypeScript">
@@ -86,7 +111,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">🎨 Frontend</h3>
+<h3> Frontend</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nub2ZreWJrOHJucjZiaGFwZjV3dDBmcTllYzBoaTBnM25ra3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJyYmdkdTEwZzByaXJsbDdsb2Z2aTB4a2JlNnVzYnE5djJ3c3Y0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
@@ -101,11 +126,11 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <h3 style="color: #00FFD4;">⚙️ Backend</h3>
 
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 </td>
 </tr>
@@ -116,7 +141,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBuc2RkaWR0eWF1ZmhyOHJ3Z2RjY2k0MGJudWxhM2EwamExaTF5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
@@ -128,7 +153,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 
 </td>
 </tr>
@@ -137,11 +162,11 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h3 style="color: #00FFD4;">🗄️ Databases</h3>
 
-<img src="mongo.gif" width="50">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/ErKZiAX84D5bNQyUNi/giphy.gif" width="50" alt="MongoDB">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="MySQL">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
@@ -152,9 +177,9 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtN2V3dnFoNnhkOTd1bzFpb2gwcmI0MjJkanZscjRvaHN3Z3B4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="C">
 
-<img src="postman.gif" width="50" alt="Postman">
+<img src="https://media.giphy.com/media/l0HlGy9x8FZo0XO1i/giphy.gif" width="50" alt="Postman">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 </td>
 </tr>
@@ -164,78 +189,74 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🎯 Featured Projects</h2>
 
-<h3 style="color: #00FFD4;">1.[Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)
-**Description:** Report & track civic issues in your community. Connect citizens with authorities for faster resolution.
+<h3 style="color: #00FFD4;">1. <a href="https://github.com/valiantProgrammer/Civic-Issues" style="color: #00FFD4;">Civic-Saathi</a></h3>
+<p><strong>Description:</strong> Report & track civic issues in your community. Connect citizens with authorities for faster resolution.</p>
 
-```
-Tech Stack: Next.js, MongoDB, MobileNetV2, 
-```
+<p><strong>Tech Stack:</strong> Next.js, MongoDB, MobileNetV2</p>
 
-**Highlights:**
-- Responsive Design
-- Real-time Updates
-- Authentication System
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>Responsive Design</li>
+<li>Real-time Updates</li>
+<li>Authentication System</li>
+</ul>
+<p><strong>Active Link:</strong> <a href="https://civic-issues-pearl.vercel.app/" style="color: #00FFD4;">Civic-Saathi Live Demo</a></p>
+<p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
 
-**Active Link:**
-[Civic-Saathi](https://civic-issues-pearl.vercel.app/)
+<h3 style="color: #00FFD4;">2. <a href="https://github.com/valiantProgrammer/E-commerce" style="color: #00FFD4;">Belle Mart</a></h3>
+<p><strong>Description:</strong> A full-stack e-commerce application with Python backend API and Next.js frontend. Features include secure user authentication with email OTP verification, comprehensive product catalog with search and filtering, shopping cart functionality, complete checkout system, order management, and responsive mobile design. Database-driven with MongoDB.</p>
+<p><strong>Tech Stack:</strong> Next.js, Python, Razor-pay</p>
 
-```code
-Note: The active link may take some time to open because of the free instance of the deploy server.
-```
-
-<h3 style="color: #00FFD4;">2. [Belle Mart]</h3>(https://github.com/valiantProgrammer/E-commerce)
-**Description:** A full-stack e-commerce application with Python backend API and Next.js frontend. Features include secure user authentication with email OTP verification, comprehensive product catalog with search and filtering, shopping cart functionality, complete checkout system, order management, and responsive mobile design. Database-driven with MongoDB.  
-
-**Tech Stack:** Next.js, Python, Razor-pay.
-
-**Highlights:**
-- End to End project
-- Database Optimization
-- Unit Testing
-- Payment Gateway Implementation
-
-**Active Link:**
-[Belle Mart](https://civic-issues-pearl.vercel.app/)
-
-
-```code
-Note: The active link may take some time to open because of the free instance of the deploy server.
-```
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>End to End project</li>
+<li>Database Optimization</li>
+<li>Unit Testing</li>
+<li>Payment Gateway Implementation</li>
+</ul>
+<p><strong>Active Link:</strong> <a href="https://civic-issues-pearl.vercel.app/" style="color: #00FFD4;">Belle Mart Live Demo</a></p>
+<p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
 
 
 ---
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🏆 Achievements & Certifications</h2>
 
-- 🎓 **Certification Name** - Issuing Organization (Year)
-- 🥇 **Achievement** - Description
-- 🚀 **Milestone** - Details
+<ul style="color: #00FFD4;">
+<li>🎓 <strong>Certification Name</strong> - Issuing Organization (Year)</li>
+<li>🥇 <strong>Achievement</strong> - Description</li>
+<li>🚀 <strong>Milestone</strong> - Details</li>
+</ul>
 
 ---
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📚 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Title](https://yourblog.com)
-- [Another Blog Post](https://yourblog.com)
-- [Technical Article](https://yourblog.com)
+<ul style="color: #00FFD4;">
+<li><a href="https://yourblog.com" style="color: #00FFD4;">Blog Post Title</a></li>
+<li><a href="https://yourblog.com" style="color: #00FFD4;">Another Blog Post</a></li>
+<li><a href="https://yourblog.com" style="color: #00FFD4;">Technical Article</a></li>
+</ul>
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📞 Get In Touch</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupdey/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rupayan_Dey_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupayandey134@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+<div align="center">
+<a href="https://www.linkedin.com/in/rupdey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/Rupayan_Dey_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="mailto:rupayandey134@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+</div>
 
 ---
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📊 Additional Stats</h2>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-![GitHub followers](https://img.shields.io/github/followers/valient?style=social)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=valiantProgrammer.valiantProgrammer" alt="Visitors">
+<img src="https://img.shields.io/github/followers/valiantProgrammer?style=social" alt="GitHub followers">
 
 ---
 
