@@ -42,7 +42,7 @@
 </p>
 
 
-# Hi, Myself Rupayan Dey
+## Hi, Myself Rupayan Dey
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" alt="Typing SVG" />
@@ -281,5 +281,6 @@ Note: The active link may take some time to open because of the free instance of
 </p>
 
 </div>
-#   v a l i a n t P r o g r a m m e r  
+#   v a l i a n t P r o g r a m m e r 
+ 
  
