@@ -1,41 +1,10 @@
 <style>
-  @keyframes sparkle {
-    0%, 100% { opacity: 0; transform: scale(0); }
-    50% { opacity: 1; transform: scale(1); }
-  }
-  
-  @keyframes twinkle {
-    0%, 100% { opacity: 0.3; }
-    50% { opacity: 1; }
-  }
-  
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-  }
-  
-  .sparkle-bg::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: 
-      radial-gradient(2px 2px at 20px 30px, #00FFB3, rgba(0, 255, 179, 0)),
-      radial-gradient(2px 2px at 60px 70px, #00CED1, rgba(0, 206, 209, 0)),
-      radial-gradient(1px 1px at 50px 50px, #00FFD4, rgba(0, 255, 212, 0)),
-      radial-gradient(1px 1px at 130px 80px, #00FFB3, rgba(0, 255, 179, 0)),
-      radial-gradient(2px 2px at 90px 10px, #00CED1, rgba(0, 206, 209, 0));
-    background-repeat: repeat;
-    background-size: 200px 200px;
-    animation: twinkle 3s infinite, float 6s infinite;
-    pointer-events: none;
-    z-index: 1;
+  body {
+    background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%);
   }
 </style>
 
-<div class="sparkle-bg" style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
+<div style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header&width=100%"/>
@@ -281,5 +250,3 @@ Note: The active link may take some time to open because of the free instance of
 </p>
 
 </div>
-#   v a l i a n t P r o g r a m m e r  
- 
