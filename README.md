@@ -197,7 +197,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <li>Unit Testing</li>
 <li>Payment Gateway Implementation</li>
 </ul>
-<p><strong>Active Link:</strong> <a href="https://civic-issues-pearl.vercel.app/" style="color: #00FFD4;">Belle Mart Live Demo</a></p>
+<p><strong>Active Link:</strong> <a href="https://belle-mart.vercel.app/" style="color: #00FFD4;">Belle Mart Live Demo</a></p>
 <p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Get In Touch</h2>
