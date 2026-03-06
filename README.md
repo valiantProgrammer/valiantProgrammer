@@ -1,21 +1,22 @@
 
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header&width=100%"/>
 </p>
+<p align="Center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=35&duration=5000&pause=500&color=00FFD4&center=true&width=700&lines=Hello, Myself ;Hola yo mismo;こんにちは、私です ;नमस्ते, मैं रूपायन डे हूँ।;হ্যালো, আমি ;" alt="Greeting" style="width: 100%" /> 
+<h1>Rupayan Dey</h1>
+</p>
 
-
-<h2 style="color: #00FFD4; text-align: center; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Hi, Myself Rupayan Dey</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" style="width: 100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;AI-Ml+Developer;Coder;Tech Enthusiast" style="width: 100%" alt="Typing SVG" />
 </p>
 
 
 I'm a passionate developer with expertise in full-stack development ( HTML, CSS, JavaScript, React, Nextjs), web technologies, and software engineering, Artificial Intelligence & Machine Learning best practices. I love building scalable applications and contributing to open-source projects.
-
-
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Professional Summary</h2>
 
@@ -47,10 +48,6 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </tbody>
 </table>
 
-
-
-
-
 <p><strong>Key Strengths:</strong></p>
 <ul style="color: #00FFD4;">
 <li> Problem-solving & Algorithm Design</li>
@@ -60,41 +57,22 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <li> Team Collaboration</li>
 </ul>
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> LeetCode Progress </h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/legendCoder-888?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-
-
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark" alt="GitHub Streak">
-</div>
-
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Languages I Know</h2>
 
 <div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
 
 
-<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50" alt="C++">
-<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50" alt="Java">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" alt="C">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" alt="C++">
+<img src="Java logo.gif" width="50" alt="Java">
 <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Python">
-<img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="50" alt="Rust">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="TypeScript">
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="JavaScript">
-
+<img src="image.png" width="50" alt="Rust">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png?_=20221110153201" width="50" alt="TypeScript">
 </div>
 
-
-
-
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🛠️ Tech Stack</h2>
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Tech Stack</h2>
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
 <tr>
@@ -112,21 +90,20 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">⚙️ Backend</h3>
-
+<h3 style="color: #00FFD4;"> Backend</h3>
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 <img src="Django.svg" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="Java logo.gif" alt="Java">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 
 </td>
 </tr>
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">📱 Mobile</h3>
+<h3 style="color: #00FFD4;">Mobile</h3>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBuc2RkaWR0eWF1ZmhyOHJ3Z2RjY2k0MGJudWxhM2EwamExaTF5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
 
@@ -135,7 +112,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">🧠 ML/AI</h3>
+<h3 style="color: #00FFD4;">ML/AI</h3>
 
 <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
 
@@ -149,9 +126,8 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">🗄️ Databases</h3>
+<h3 style="color: #00FFD4;">Databases</h3>
 
-<img src="https://media.giphy.com/media/ErKZiAX84D5bNQyUNi/giphy.gif" width="50" alt="MongoDB">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="MySQL">
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -160,14 +136,11 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3 style="color: #00FFD4;">🛠️ Tools & Platforms</h3>
+<h3 style="color: #00FFD4;">Tools & Platforms</h3>
 
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtN2V3dnFoNnhkOTd1bzFpb2gwcmI0MjJkanZscjRvaHN3Z3B4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="C">
-
-<img src="https://media.giphy.com/media/l0HlGy9x8FZo0XO1i/giphy.gif" width="50" alt="Postman">
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 </td>
@@ -175,8 +148,21 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </table>
 
 
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> LeetCode Progress </h2>
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🎯 Featured Projects</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/legendCoder-888?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark" alt="GitHub Streak">
+</div>
+
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Featured Projects</h2>
 
 <h3 style="color: #00FFD4;">1. <a href="https://github.com/valiantProgrammer/Civic-Issues" style="color: #00FFD4;">Civic-Saathi</a></h3>
 <p><strong>Description:</strong> Report & track civic issues in your community. Connect citizens with authorities for faster resolution.</p>
@@ -206,21 +192,6 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <p><strong>Active Link:</strong> <a href="https://civic-issues-pearl.vercel.app/" style="color: #00FFD4;">Belle Mart Live Demo</a></p>
 <p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
 
-
-
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<ul style="color: #00FFD4;">
-<li><a href="https://yourblog.com" style="color: #00FFD4;">Blog Post Title</a></li>
-<li><a href="https://yourblog.com" style="color: #00FFD4;">Another Blog Post</a></li>
-<li><a href="https://yourblog.com" style="color: #00FFD4;">Technical Article</a></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
-
-
-
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Get In Touch</h2>
 
 <div align="center">
@@ -235,7 +206,6 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Additional Stats</h2>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=valiantProgrammer.valiantProgrammer" alt="Visitors">
-<img src="https://img.shields.io/github/followers/valiantProgrammer?style=social" alt="GitHub followers">
 
 
 
