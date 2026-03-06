@@ -96,7 +96,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="50">
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" width="50" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="Java logo.gif" alt="Java">
+<img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 
 </td>
