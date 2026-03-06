@@ -79,7 +79,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-<h3> Frontend</h3>
+<h3 style="color: #00FFD4;"> Frontend</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nub2ZreWJrOHJucjZiaGFwZjV3dDBmcTllYzBoaTBnM25ra3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJyYmdkdTEwZzByaXJsbDdsb2Z2aTB4a2JlNnVzYnE5djJ3c3Y0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
@@ -93,8 +93,8 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h3 style="color: #00FFD4;"> Backend</h3>
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="Django.svg" alt="Django">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="50">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" width="50" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="Java logo.gif" alt="Java">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
@@ -108,7 +108,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBuc2RkaWR0eWF1ZmhyOHJ3Z2RjY2k0MGJudWxhM2EwamExaTF5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="50" alt="Flutter">
 
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
@@ -120,7 +120,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV">
 
 </td>
 </tr>
@@ -131,8 +131,8 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="MySQL">
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="50" alt="PostgreSQL">
+<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="50" alt="Firebase">
 
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
@@ -142,7 +142,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtN2V3dnFoNnhkOTd1bzFpb2gwcmI0MjJkanZscjRvaHN3Z3B4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="C">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" width="50" alt="TypeScript">
 
 </td>
 </tr>
