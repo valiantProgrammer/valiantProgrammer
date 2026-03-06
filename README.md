@@ -1,9 +1,3 @@
-<style>
-  body {
-    background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%);
-  }
-</style>
-
 <div style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
 
 <p align="center">
@@ -11,7 +5,7 @@
 </p>
 
 
-## Hi, Myself Rupayan Dey
+<h2 style="color: #00FFD4; text-align: center; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Hi, Myself Rupayan Dey</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" alt="Typing SVG" />
@@ -22,7 +16,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 ---
 
-## Professional Summary
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📋 Professional Summary</h2>
 
 | Course | Institution | Timeline |
 |-----|-----|---|
@@ -43,7 +37,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 ---
 
-## GitHub Stats
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📊 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/valiantProgrammer">
@@ -53,14 +47,14 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
   <strong><a href="https://github.com/valiantProgrammer?tab=repositories" style="color: #00FFD4;">View My Repositories →</a></strong>
 </div>
 
-### Streak Stats
+<h3 style="color: #00FFD4;">🔥 Streak Stats</h3>
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark)
 
 </div>
 
-### Daily Activity
+<h3 style="color: #00FFD4;">📈 Daily Activity</h3>
 
 <div align="center">
   <strong><a href="https://github.com/valiantProgrammer" style="color: #00FFD4;">View my GitHub activity →</a></strong>
@@ -68,7 +62,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 ---
 
-## 💻 Languages I Know
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">💻 Languages I Know</h2>
 
 <div align="center" style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
 
@@ -86,13 +80,13 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 
 
-## 🛠️ Tech Stack
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🛠️ Tech Stack</h2>
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### Frontend
+<h3 style="color: #00FFD4;">🎨 Frontend</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nub2ZreWJrOHJucjZiaGFwZjV3dDBmcTllYzBoaTBnM25ra3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJyYmdkdTEwZzByaXJsbDdsb2Z2aTB4a2JlNnVzYnE5djJ3c3Y0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
@@ -104,7 +98,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### Backend
+<h3 style="color: #00FFD4;">⚙️ Backend</h3>
 
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -118,7 +112,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### Mobile
+<h3 style="color: #00FFD4;">📱 Mobile</h3>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBuc2RkaWR0eWF1ZmhyOHJ3Z2RjY2k0MGJudWxhM2EwamExaTF5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
 
@@ -127,7 +121,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### ML/AI
+<h3 style="color: #00FFD4;">🧠 ML/AI</h3>
 
 <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
 
@@ -141,7 +135,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### Databases
+<h3 style="color: #00FFD4;">🗄️ Databases</h3>
 
 <img src="mongo.gif" width="50">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70">
@@ -152,7 +146,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </td>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
-### Tools & Platforms
+<h3 style="color: #00FFD4;">🛠️ Tools & Platforms</h3>
 
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtN2V3dnFoNnhkOTd1bzFpb2gwcmI0MjJkanZscjRvaHN3Z3B4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
@@ -168,9 +162,9 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 ---
 
-## 🎯 Featured Projects
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🎯 Featured Projects</h2>
 
-### 1.[Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)
+<h3 style="color: #00FFD4;">1.[Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)
 **Description:** Report & track civic issues in your community. Connect citizens with authorities for faster resolution.
 
 ```
@@ -189,7 +183,7 @@ Tech Stack: Next.js, MongoDB, MobileNetV2,
 Note: The active link may take some time to open because of the free instance of the deploy server.
 ```
 
-### 2. [Belle Mart](https://github.com/valiantProgrammer/E-commerce)
+<h3 style="color: #00FFD4;">2. [Belle Mart]</h3>(https://github.com/valiantProgrammer/E-commerce)
 **Description:** A full-stack e-commerce application with Python backend API and Next.js frontend. Features include secure user authentication with email OTP verification, comprehensive product catalog with search and filtering, shopping cart functionality, complete checkout system, order management, and responsive mobile design. Database-driven with MongoDB.  
 
 **Tech Stack:** Next.js, Python, Razor-pay.
@@ -211,7 +205,7 @@ Note: The active link may take some time to open because of the free instance of
 
 ---
 
-## 🏆 Achievements & Certifications
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🏆 Achievements & Certifications</h2>
 
 - 🎓 **Certification Name** - Issuing Organization (Year)
 - 🥇 **Achievement** - Description
@@ -219,7 +213,7 @@ Note: The active link may take some time to open because of the free instance of
 
 ---
 
-## 📚 Latest Blog Posts
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📚 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Blog Post Title](https://yourblog.com)
@@ -229,7 +223,7 @@ Note: The active link may take some time to open because of the free instance of
 
 ---
 
-## 📞 Get In Touch
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📞 Get In Touch</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupdey/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rupayan_Dey_)
@@ -238,7 +232,7 @@ Note: The active link may take some time to open because of the free instance of
 
 ---
 
-## 📊 Additional Stats
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📊 Additional Stats</h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 ![GitHub followers](https://img.shields.io/github/followers/valient?style=social)
