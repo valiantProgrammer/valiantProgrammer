@@ -120,7 +120,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 
-<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV">
+<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" width="50">
 
 </td>
 </tr>
