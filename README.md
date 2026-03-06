@@ -65,7 +65,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" alt="C">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" alt="C++">
-<img src="Java logo.gif" width="50" alt="Java">
+<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="50" alt="Java">
 <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Python">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="TypeScript">
