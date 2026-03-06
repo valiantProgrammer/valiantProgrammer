@@ -13,11 +13,11 @@
 </p>
 
 
-I'm a passionate developer with expertise in full-stack development ( HTML, CSS, JavaScript, React, Nextjs), web technologies, and software engineering best practices. I love building scalable applications and contributing to open-source projects.
+I'm a passionate developer with expertise in full-stack development ( HTML, CSS, JavaScript, React, Nextjs), web technologies, and software engineering, Artificial Intelligence & Machine Learning best practices. I love building scalable applications and contributing to open-source projects.
 
----
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📋 Professional Summary</h2>
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Professional Summary</h2>
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 0; margin: 20px 0; border-radius: 15px; overflow: hidden; background-color: #0f1d22;">
 <thead>
@@ -49,45 +49,34 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 
 
----
+
 
 <p><strong>Key Strengths:</strong></p>
 <ul style="color: #00FFD4;">
-<li>💡 Problem-solving & Algorithm Design</li>
-<li>🚀 Full-Stack Development</li>
-<li>🔧 DevOps & System Design</li>
-<li>📚 Clean Code & Best Practices</li>
-<li>🤝 Team Collaboration</li>
+<li> Problem-solving & Algorithm Design</li>
+<li> Full-Stack Development</li>
+<li> DevOps & System Design</li>
+<li> Clean Code & Best Practices</li>
+<li> Team Collaboration</li>
 </ul>
 
----
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> LeetCode Progress </h2>
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/legendCoder-888?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/valiantProgrammer">
-    <img alt="valiantProgrammer's Top Languages" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  </a>
-  <br />
-  <strong><a href="https://github.com/valiantProgrammer?tab=repositories" style="color: #00FFD4;">View My Repositories →</a></strong>
-</div>
 
-<h3 style="color: #00FFD4;">🔥 Streak Stats</h3>
+
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">GitHub Stats</h2>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark" alt="GitHub Streak">
-
 </div>
 
-<h3 style="color: #00FFD4;">📈 Daily Activity</h3>
-
-<div align="center">
-  <strong><a href="https://github.com/valiantProgrammer" style="color: #00FFD4;">View my GitHub activity →</a></strong>
-</div>
-
----
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">💻 Languages I Know</h2>
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Languages I Know</h2>
 
 <div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
 
@@ -101,7 +90,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 </div>
 
----
+
 
 
 
@@ -127,7 +116,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="Django.svg" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -185,7 +174,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </tr>
 </table>
 
----
+
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🎯 Featured Projects</h2>
 
@@ -218,19 +207,9 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
 
 
----
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">🏆 Achievements & Certifications</h2>
 
-<ul style="color: #00FFD4;">
-<li>🎓 <strong>Certification Name</strong> - Issuing Organization (Year)</li>
-<li>🥇 <strong>Achievement</strong> - Description</li>
-<li>🚀 <strong>Milestone</strong> - Details</li>
-</ul>
-
----
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📚 Latest Blog Posts</h2>
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <ul style="color: #00FFD4;">
@@ -240,9 +219,9 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </ul>
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📞 Get In Touch</h2>
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Get In Touch</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rupdey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -251,20 +230,17 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 </div>
 
----
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">📊 Additional Stats</h2>
+
+<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Additional Stats</h2>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=valiantProgrammer.valiantProgrammer" alt="Visitors">
 <img src="https://img.shields.io/github/followers/valiantProgrammer?style=social" alt="GitHub followers">
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=footer&width=100%"/>
 </p>
 
 </div>
-#   v a l i a n t P r o g r a m m e r 
- 
- 
