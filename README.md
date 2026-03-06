@@ -8,7 +8,7 @@
 <h2 style="color: #00FFD4; text-align: center; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Hi, Myself Rupayan Dey</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;Learning+ML;Tech+Explorer" style="width: 100%" alt="Typing SVG" />
 </p>
 
 
