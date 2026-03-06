@@ -52,6 +52,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <br>
 <br>
 <br>
+<br>
 <p><strong>Key Strengths:</strong></p>
 <ul style="color: #00FFD4;">
 <li> Problem-solving & Algorithm Design</li>
