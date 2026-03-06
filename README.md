@@ -78,7 +78,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 
 <h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Tech Stack</h2>
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;" align="center">
 <tr>
 <td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
 
