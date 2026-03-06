@@ -48,7 +48,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 </tr>
 </tbody>
 </table>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <p><strong>Key Strengths:</strong></p>
 <ul style="color: #00FFD4;">
 <li> Problem-solving & Algorithm Design</li>
