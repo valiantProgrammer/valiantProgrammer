@@ -61,6 +61,7 @@ I'm a passionate developer with expertise in full-stack development ( HTML, CSS,
 <li> DevOps & System Design</li>
 <li> Clean Code & Best Practices</li>
 <li> Team Collaboration</li>
+<li> Knowlede on Machine Learning</li>
 </ul>
 <br>
 <br>
