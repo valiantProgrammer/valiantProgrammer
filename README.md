@@ -83,8 +83,25 @@
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valiantProgrammer&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00FFD4&icon_color=00FFD4&text_color=e0e0e0&border_color=00CED1&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantProgrammer&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00FFD4&text_color=e0e0e0&border_color=00CED1&hide_border=true" height="150" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/3-stats.svg">
+    <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/2-most-commit-language.svg">
+    <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most Used Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/1-repos-per-language.svg">
+    <img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/4-productive-time.svg">
+    <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
+  </picture>
 </p>
 
 <p align="center">
