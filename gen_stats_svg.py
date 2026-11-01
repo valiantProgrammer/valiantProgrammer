@@ -128,3 +128,4 @@ o.append('</svg>')
 with open("stats-dashboard.svg", "w", encoding="utf-8") as f:
     f.write("\n".join(o))
 print("wrote stats-dashboard.svg")
+
