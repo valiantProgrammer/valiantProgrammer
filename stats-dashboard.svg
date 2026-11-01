@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0a"/><stop offset="1" stop-color="#0d1b1f"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FFD4"/><stop offset="1" stop-color="#8a5cf5"/></linearGradient><linearGradient id="sc" x1="0" x2="1"><stop offset="0" stop-color="#00FFD4" stop-opacity="0"/><stop offset=".5" stop-color="#00FFD4" stop-opacity=".12"/><stop offset="1" stop-color="#00FFD4" stop-opacity="0"/></linearGradient><clipPath id="all"><rect width="900" height="540"/></clipPath></defs>
+<style>
+text{font-family:'Courier New',Consolas,monospace}
+.title{font-size:19px;font-weight:700;fill:#00FFD4}
+.lbl{font-size:14px;fill:#c9d1d9}
+.val{font-size:14px;font-weight:700;fill:#00FFD4}
+.sub{font-size:11px;fill:#8b949e}
+.card{fill:url(#bg);stroke:#00CED1;stroke-opacity:.55;stroke-width:1.2}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.seg{fill:none;stroke-width:22;animation:draw 1.4s cubic-bezier(.4,0,.2,1) forwards;stroke-dasharray:0 400}
+@keyframes draw{to{stroke-dasharray:var(--len) 400}}
+.bar{transform-box:fill-box;transform-origin:50% 100%;transform:scaleY(0);animation:grow .8s cubic-bezier(.3,1.3,.5,1) forwards}
+@keyframes grow{to{transform:scaleY(1)}}
+.ring{fill:none;stroke:#00FFD4;stroke-width:3;stroke-linecap:round;stroke-dasharray:60 254;
+transform-box:fill-box;transform-origin:center;animation:spin 4s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.7;transform:scale(1.08)}}
+.scan{animation:scan 5s linear infinite}
+@keyframes scan{from{transform:translateX(-440px)}to{transform:translateX(900px)}}
+</style>
+<g class="fade" style="animation-delay:0.0s">
+<rect class="card" x="10" y="10" width="430" height="245" rx="14"/>
+<text class="title" x="34" y="48">Stats</text>
+<line x1="34" y1="58" x2="80" y2="58" stroke="#00FFD4" stroke-width="2"/>
+<circle cx="40" cy="85" r="3.5" fill="#00FFD4"/>
+<text class="lbl" x="56" y="90">Total Stars</text>
+<text class="val" x="240" y="90" text-anchor="end">6</text>
+<circle cx="40" cy="115" r="3.5" fill="#00FFD4"/>
+<text class="lbl" x="56" y="120">Total Commits</text>
+<text class="val" x="240" y="120" text-anchor="end">527</text>
+<circle cx="40" cy="145" r="3.5" fill="#00FFD4"/>
+<text class="lbl" x="56" y="150">Total PRs</text>
+<text class="val" x="240" y="150" text-anchor="end">2</text>
+<circle cx="40" cy="175" r="3.5" fill="#00FFD4"/>
+<text class="lbl" x="56" y="180">Total Issues</text>
+<text class="val" x="240" y="180" text-anchor="end">0</text>
+<circle cx="40" cy="205" r="3.5" fill="#00FFD4"/>
+<text class="lbl" x="56" y="210">Contributed to</text>
+<text class="val" x="240" y="210" text-anchor="end">26</text>
+<circle class="pulse" cx="340" cy="150" r="58" fill="none" stroke="#00FFD4" stroke-width="1"/>
+<circle cx="340" cy="150" r="50" fill="#0d1b1f" stroke="#161b22" stroke-width="4"/>
+<circle class="ring" cx="340" cy="150" r="50"/>
+<text x="340" y="155" text-anchor="middle" font-size="26" font-weight="700" fill="#00FFD4">527</text>
+<text class="sub" x="340" y="172" text-anchor="middle">commits</text>
+</g>
+<g class="fade" style="animation-delay:0.15s">
+<rect class="card" x="460" y="10" width="430" height="245" rx="14"/>
+<text class="title" x="484" y="48">Top Languages by Commit</text>
+<line x1="484" y1="58" x2="530" y2="58" stroke="#00FFD4" stroke-width="2"/>
+<circle cx="790" cy="150" r="58" fill="none" stroke="#161b22" stroke-width="22"/>
+<circle class="seg" cx="790" cy="150" r="58" stroke="#f1e05a" transform="rotate(-90.00 790 150)" style="--len:129.19px;animation-delay:0.50s"/>
+<circle class="seg" cx="790" cy="150" r="58" stroke="#DA5B0B" transform="rotate(39.60 790 150)" style="--len:129.19px;animation-delay:0.65s"/>
+<circle class="seg" cx="790" cy="150" r="58" stroke="#3572A5" transform="rotate(169.20 790 150)" style="--len:78.17px;animation-delay:0.80s"/>
+<circle class="seg" cx="790" cy="150" r="58" stroke="#8a5cf5" transform="rotate(248.40 790 150)" style="--len:12.58px;animation-delay:0.95s"/>
+<circle class="seg" cx="790" cy="150" r="58" stroke="#e34c26" transform="rotate(262.80 790 150)" style="--len:5.29px;animation-delay:1.10s"/>
+<rect x="484" y="81" width="13" height="13" rx="3" fill="#f1e05a"/>
+<text class="lbl" x="506" y="92">JavaScript</text>
+<text class="sub" x="670" y="92" text-anchor="end">36%</text>
+<rect x="484" y="111" width="13" height="13" rx="3" fill="#DA5B0B"/>
+<text class="lbl" x="506" y="122">Jupyter Notebook</text>
+<text class="sub" x="670" y="122" text-anchor="end">36%</text>
+<rect x="484" y="141" width="13" height="13" rx="3" fill="#3572A5"/>
+<text class="lbl" x="506" y="152">Python</text>
+<text class="sub" x="670" y="152" text-anchor="end">22%</text>
+<rect x="484" y="171" width="13" height="13" rx="3" fill="#8a5cf5"/>
+<text class="lbl" x="506" y="182">CSS</text>
+<text class="sub" x="670" y="182" text-anchor="end">4%</text>
+<rect x="484" y="201" width="13" height="13" rx="3" fill="#e34c26"/>
+<text class="lbl" x="506" y="212">HTML</text>
+<text class="sub" x="670" y="212" text-anchor="end">2%</text>
+</g>
+<g class="fade" style="animation-delay:0.3s">
+<rect class="card" x="10" y="285" width="430" height="245" rx="14"/>
+<text class="title" x="34" y="323">Top Languages by Repo</text>
+<line x1="34" y1="333" x2="80" y2="333" stroke="#00FFD4" stroke-width="2"/>
+<circle cx="340" cy="425" r="58" fill="none" stroke="#161b22" stroke-width="22"/>
+<circle class="seg" cx="340" cy="425" r="58" stroke="#DA5B0B" transform="rotate(-90.00 340 425)" style="--len:136.48px;animation-delay:0.70s"/>
+<circle class="seg" cx="340" cy="425" r="58" stroke="#f1e05a" transform="rotate(46.80 340 425)" style="--len:107.33px;animation-delay:0.85s"/>
+<circle class="seg" cx="340" cy="425" r="58" stroke="#3572A5" transform="rotate(154.80 340 425)" style="--len:49.02px;animation-delay:1.00s"/>
+<circle class="seg" cx="340" cy="425" r="58" stroke="#8a5cf5" transform="rotate(205.20 340 425)" style="--len:38.09px;animation-delay:1.15s"/>
+<circle class="seg" cx="340" cy="425" r="58" stroke="#3178c6" transform="rotate(244.80 340 425)" style="--len:23.51px;animation-delay:1.30s"/>
+<rect x="34" y="356" width="13" height="13" rx="3" fill="#DA5B0B"/>
+<text class="lbl" x="56" y="367">Jupyter Notebook</text>
+<text class="sub" x="220" y="367" text-anchor="end">38%</text>
+<rect x="34" y="386" width="13" height="13" rx="3" fill="#f1e05a"/>
+<text class="lbl" x="56" y="397">JavaScript</text>
+<text class="sub" x="220" y="397" text-anchor="end">30%</text>
+<rect x="34" y="416" width="13" height="13" rx="3" fill="#3572A5"/>
+<text class="lbl" x="56" y="427">Python</text>
+<text class="sub" x="220" y="427" text-anchor="end">14%</text>
+<rect x="34" y="446" width="13" height="13" rx="3" fill="#8a5cf5"/>
+<text class="lbl" x="56" y="457">CSS</text>
+<text class="sub" x="220" y="457" text-anchor="end">11%</text>
+<rect x="34" y="476" width="13" height="13" rx="3" fill="#3178c6"/>
+<text class="lbl" x="56" y="487">TypeScript</text>
+<text class="sub" x="220" y="487" text-anchor="end">7%</text>
+</g>
+<g class="fade" style="animation-delay:0.45s">
+<rect class="card" x="460" y="285" width="430" height="245" rx="14"/>
+<text class="title" x="484" y="323">Commits by Hour (UTC)</text>
+<line x1="484" y1="333" x2="530" y2="333" stroke="#00FFD4" stroke-width="2"/>
+<rect class="bar" x="519.6" y="488.9" width="12" height="8.1" rx="2" fill="url(#bar)" style="animation-delay:0.88s"/>
+<rect class="bar" x="535.4" y="495.0" width="12" height="2.0" rx="2" fill="url(#bar)" style="animation-delay:0.92s"/>
+<rect class="bar" x="551.2" y="480.7" width="12" height="16.3" rx="2" fill="url(#bar)" style="animation-delay:0.96s"/>
+<rect class="bar" x="567.0" y="478.7" width="12" height="18.3" rx="2" fill="url(#bar)" style="animation-delay:1.00s"/>
+<rect class="bar" x="582.8" y="476.7" width="12" height="20.3" rx="2" fill="url(#bar)" style="animation-delay:1.04s"/>
+<rect class="bar" x="598.6" y="476.7" width="12" height="20.3" rx="2" fill="url(#bar)" style="animation-delay:1.08s"/>
+<rect class="bar" x="614.4" y="464.5" width="12" height="32.5" rx="2" fill="url(#bar)" style="animation-delay:1.12s"/>
+<rect class="bar" x="630.2" y="470.6" width="12" height="26.4" rx="2" fill="url(#bar)" style="animation-delay:1.16s"/>
+<rect class="bar" x="646.0" y="460.4" width="12" height="36.6" rx="2" fill="url(#bar)" style="animation-delay:1.20s"/>
+<rect class="bar" x="661.8" y="470.6" width="12" height="26.4" rx="2" fill="url(#bar)" style="animation-delay:1.24s"/>
+<rect class="bar" x="677.6" y="458.4" width="12" height="38.6" rx="2" fill="url(#bar)" style="animation-delay:1.28s"/>
+<rect class="bar" x="693.4" y="468.5" width="12" height="28.5" rx="2" fill="url(#bar)" style="animation-delay:1.32s"/>
+<rect class="bar" x="709.2" y="377.0" width="12" height="120.0" rx="2" fill="url(#bar)" style="animation-delay:1.36s"/>
+<rect class="bar" x="725.0" y="436.0" width="12" height="61.0" rx="2" fill="url(#bar)" style="animation-delay:1.40s"/>
+<rect class="bar" x="740.8" y="450.2" width="12" height="46.8" rx="2" fill="url(#bar)" style="animation-delay:1.44s"/>
+<rect class="bar" x="756.6" y="411.6" width="12" height="85.4" rx="2" fill="url(#bar)" style="animation-delay:1.48s"/>
+<rect class="bar" x="772.4" y="442.1" width="12" height="54.9" rx="2" fill="url(#bar)" style="animation-delay:1.52s"/>
+<rect class="bar" x="788.2" y="427.8" width="12" height="69.2" rx="2" fill="url(#bar)" style="animation-delay:1.56s"/>
+<rect class="bar" x="804.0" y="476.7" width="12" height="20.3" rx="2" fill="url(#bar)" style="animation-delay:1.60s"/>
+<line x1="484" y1="497" x2="870" y2="497" stroke="#30363d"/>
+<text class="sub" x="494.0" y="513" text-anchor="middle">0</text>
+<text class="sub" x="588.8" y="513" text-anchor="middle">6</text>
+<text class="sub" x="683.6" y="513" text-anchor="middle">12</text>
+<text class="sub" x="778.4" y="513" text-anchor="middle">18</text>
+<text class="sub" x="857.4" y="513" text-anchor="middle">23</text>
+</g>
+<g clip-path="url(#all)"><rect class="scan" x="0" y="0" width="120" height="540" fill="url(#sc)"/></g>
+</svg>

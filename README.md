@@ -83,25 +83,7 @@
 ## // 04. ANALYTICS & ACTIVITY
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/3-stats.svg">
-    <img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/2-most-commit-language.svg">
-    <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most Used Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/1-repos-per-language.svg">
-    <img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/4-productive-time.svg">
-    <img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
-  </picture>
+  <img src="stats-dashboard.svg" width="100%" alt="Developer Stats Dashboard" />
 </p>
 
 <p align="center">
