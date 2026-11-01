@@ -1,225 +1,138 @@
-
-<div style="background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); padding: 20px; border-radius: 15px; position: relative; z-index: 2;">
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header" width="100%" alt="Header Wave" />
 </p>
-
-<div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #0a0a0a 0%, #0d1b1f 100%); border-radius: 15px; border: 2px solid #00FFD4; box-shadow: 0 0 20px rgba(0, 255, 212, 0.2);">
-<p align="center">
-
-<br>
-    <img align="left" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=35&duration=5000&pause=500&color=00FFD4&center=true&width=700&lines=Hello,+Myself;Hola+yo+mismo" alt="Greeting" style="width: 100%; margin-bottom: 20px;" /></p>
-  <h1 style="color: #00FFD4; text-shadow: 0 0 15px rgba(0, 255, 212, 0.6); font-size: 48px; margin: 0; font-weight: 900; letter-spacing: 2px;">Rupayan Dey</h1>
-</div>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=00FFD4&center=true&width=420&lines=Full-Stack+Developer;AI-Ml+Developer;Coder;Tech+Enthusiast" style="width: 100%" alt="Typing SVG" />
-</p>
-
-
-I'm a passionate developer with expertise in full-stack development ( HTML, CSS, JavaScript, React, Nextjs), web technologies, and software engineering, Artificial Intelligence & Machine Learning best practices. I love building scalable applications and contributing to open-source projects.
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Professional Summary</h2>
-
-<table style="width: 100%; border-collapse: separate; border-spacing: 0; margin: 20px 0; border-radius: 15px; overflow: hidden; background-color: #0f1d22;">
-<thead>
-<tr>
-<th style="background-color: #0d2b32;  padding: 15px; text-align: left; font-weight: bold;">Course</th>
-<th style="background-color: #0d2b32; padding: 15px;text-align: left; font-weight: bold;">Institution</th>
-<th style="background-color: #0d2b32;  padding: 15px;  text-align: left; font-weight: bold;">Timeline</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 15px; color: #FFFFFF;">Secondary Examination</td>
-<td style="padding: 15px; color: #FFFFFF;">Krishnapur Adarsha Vidhyamandir</td>
-<td style="padding: 15px; color: #00FFD4; font-weight: bold;">2021-2022</td>
-</tr>
-<tr>
-<td style="padding: 15px; color: #FFFFFF;">Higher Secondary Examination</td>
-<td style="padding: 15px; color: #FFFFFF;">Bidhannagar Government High School</td>
-<td style="padding: 15px; color: #00FFD4; font-weight: bold;">2023-2024</td>
-</tr>
-<tr>
-<tr colspan="3" style="padding: 15px; color: #FFFFFF;">
-<td><strong>Bachelor of Technology in Computer Science Engineering</strong> specialization with Artificial Intelligence And Machine Learning </td> <td> <strong>Techno Main Salt Lake</strong> </td><td> <span style=" font-weight: bold;">(2024-2028)</span>
-</td>
-</td>
-</tr>
-</tbody>
-</table>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500"/>
-
-<p><strong>Key Strengths:</strong></p>
-<ul style="color: #00FFD4;">
-<li> Problem-solving & Algorithm Design</li>
-<li> Full-Stack Development</li>
-<li> DevOps & System Design</li>
-<li> Clean Code & Best Practices</li>
-<li> Team Collaboration</li>
-<li> Knowlede on Machine Learning</li>
-</ul>
-<br>
-<br>
-<br>
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> Languages I Know</h2>
-
-<div align="center" style="border-radius: 15px; padding: 20px; background-color: #0f1d22; margin: 20px 0;">
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" alt="C">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" alt="C++">
-<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="50" alt="Java">
-<img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Python">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="TypeScript">
-<img src="image.png" width="50" alt="Rust">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1280px-Typescript_logo_2020.svg.png?_=20221110153201" width="50" alt="TypeScript">
-</div>
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Tech Stack</h2>
-
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;" align="center">
-<tr>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;"> Frontend</h3>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nub2ZreWJrOHJucjZiaGFwZjV3dDBmcTllYzBoaTBnM25ra3hjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJyYmdkdTEwZzByaXJsbDdsb2Z2aTB4a2JlNnVzYnE5djJ3c3Y0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-
-</td>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;"> Backend</h3>
-
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="Express.js" width="50">
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" width="50" alt="Django">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" width="50">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;">Mobile</h3>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBuc2RkaWR0eWF1ZmhyOHJ3Z2RjY2k0MGJudWxhM2EwamExaTF5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
-
-<img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="50" alt="Flutter">
-
-</td>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;">ML/AI</h3>
-
-<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
-
-
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-
-<img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="OpenCV" width="50">
-
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;">Databases</h3>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3Y3hvZWZzZHF3OTVtcjlscmMwcHF5YWxxcmZraGU5MWk1eDV3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="MySQL">
-
-<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="50" alt="PostgreSQL">
-<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="50" alt="Firebase">
-
-</td>
-<td style="border: 2px solid #00FFD4; border-radius: 15px; padding: 20px; text-align: center; width: 50%; background-color: #0f1d22;">
-
-<h3 style="color: #00FFD4;">Tools & Platforms</h3>
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JtN2V3dnFoNnhkOTd1bzFpb2gwcmI0MjJkanZscjRvaHN3Z3B4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="C">
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" width="50" alt="TypeScript">
-
-</td>
-</tr>
-</table>
-
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);"> LeetCode Progress </h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/legendCoder-888?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=valiantProgrammer&theme=dark" alt="GitHub Streak">
+  <h1>Rupayan Dey</h1>
+  <a href="https://github.com/valiantProgrammer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFD4&center=true&vCenter=true&width=550&height=45&lines=AI%2FML+Engineer;Building+Intelligent+Neural+Systems;Full-Stack+Developer" alt="Typing Animation" />
+  </a>
+  <p><strong>B.Tech CSE (AI & ML) @ Techno Main Salt Lake ('28)</strong> &bull; Building intelligent neural pipelines and high-performance applications.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </div>
 
+## ⚡ About Me
 
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Featured Projects</h2>
-
-<h3 style="color: #00FFD4;">1. <a href="https://github.com/valiantProgrammer/Civic-Issues" style="color: #00FFD4;">Civic-Saathi</a></h3>
-<p><strong>Description:</strong> Report & track civic issues in your community. Connect citizens with authorities for faster resolution.</p>
-
-<p><strong>Tech Stack:</strong> Next.js, MongoDB, MobileNetV2</p>
-
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>Responsive Design</li>
-<li>Real-time Updates</li>
-<li>Authentication System</li>
-</ul>
-<p><strong>Active Link:</strong> <a href="https://civic-issues-pearl.vercel.app/" style="color: #00FFD4;">Civic-Saathi Live Demo</a></p>
-<p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
-
-<h3 style="color: #00FFD4;">2. <a href="https://github.com/valiantProgrammer/E-commerce" style="color: #00FFD4;">Belle Mart</a></h3>
-<p><strong>Description:</strong> A full-stack e-commerce application with Python backend API and Next.js frontend. Features include secure user authentication with email OTP verification, comprehensive product catalog with search and filtering, shopping cart functionality, complete checkout system, order management, and responsive mobile design. Database-driven with MongoDB.</p>
-<p><strong>Tech Stack:</strong> Next.js, Python, Razor-pay</p>
-
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>End to End project</li>
-<li>Database Optimization</li>
-<li>Unit Testing</li>
-<li>Payment Gateway Implementation</li>
-</ul>
-<p><strong>Active Link:</strong> <a href="https://belle-mart.vercel.app/" style="color: #00FFD4;">Belle Mart Live Demo</a></p>
-<p><em>Note: The active link may take some time to open because of the free instance of the deploy server.</em></p>
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Get In Touch</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/rupdey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/Rupayan_Dey_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="mailto:rupayandey134@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-</div>
-
-
-
-<h2 style="color: #00FFD4; text-shadow: 0 0 10px rgba(0, 255, 212, 0.5);">Additional Stats</h2>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=valiantProgrammer.valiantProgrammer" alt="Visitors">
-
-
+- 🔭 **Currently building:** Deep learning & full-stack web solutions for civic automation ([Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)) and scalable commerce ([Belle Mart](https://github.com/valiantProgrammer/E-commerce)).
+- 🧠 **Exploring:** Convolutional neural networks, computer vision inference pipelines, and distributed backend architectures.
+- 💼 **Open to:** AI/ML Engineer & Full-Stack Developer internship opportunities and technical collaborations.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=footer&width=100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-</div>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="assets/tech-marquee.svg" width="100%" alt="Animated Tech Marquee" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark" alt="AI/ML: Python, PyTorch, TensorFlow, OpenCV, scikit-learn, Jupyter" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs&theme=dark" alt="Web: React, Next.js, TypeScript, Node.js" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git&theme=dark" alt="Data & DevOps: MongoDB, PostgreSQL, Docker, Git" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
+</p>
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏛️ <a href="https://github.com/valiantProgrammer/Civic-Issues">Civic-Saathi</a></h3>
+      <p>AI-driven civic issue reporting platform leveraging MobileNetV2 image classification to connect citizens and municipal authorities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MobileNetV2-00CED1?style=for-the-badge&logo=tensorflow&logoColor=0a0a0a" alt="MobileNetV2" />
+      </p>
+      <p>
+        <a href="https://civic-issues-pearl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00FFD4?style=for-the-badge&logo=vercel&logoColor=0a0a0a" alt="Live Demo" /></a>
+        <a href="https://github.com/valiantProgrammer/Civic-Issues" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🛍️ <a href="https://github.com/valiantProgrammer/E-commerce">Belle Mart</a></h3>
+      <p>Full-stack e-commerce application powered by Python backend APIs, Next.js interface, Razorpay payment processing, and email OTP verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+      </p>
+      <p>
+        <a href="https://belle-mart.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00FFD4?style=for-the-badge&logo=vercel&logoColor=0a0a0a" alt="Live Demo" /></a>
+        <a href="https://github.com/valiantProgrammer/E-commerce" target="_blank"><img src="https://img.shields.io/badge/Source_Code-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><em>⚡ Note: Free-tier deployments may take 30–50 seconds to spin up on initial access.</em></sub>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
+</p>
+
+## 📊 Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valiantProgrammer&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00FFD4&icon_color=00FFD4&text_color=e0e0e0&border_color=00CED1&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantProgrammer&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00FFD4&text_color=e0e0e0&border_color=00CED1&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/valiantProgrammer">
+    <img src="https://streak-stats.demolab.com?user=valiantProgrammer&theme=radical&background=0a0a0a&border=00CED1&fire=00FFD4&ring=00FFD4&currStreakNum=00FFD4&currStreakLabel=00CED1&sideNums=00CED1&sideLabels=808080&dates=808080&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/legendCoder-888/">
+    <img src="https://leetcard.jacoblin.cool/legendCoder-888?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valiantProgrammer/valiantProgrammer/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valiantProgrammer/valiantProgrammer/output/github-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/valiantProgrammer/valiantProgrammer/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupdey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Rupayan_Dey_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:rupayandey134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- TODO: Replace the href below with your personal portfolio URL -->
+  <a href="https://TODO_REPLACE_WITH_YOUR_PORTFOLIO_URL.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFD4?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=valiantProgrammer.valiantProgrammer&left_color=0a0a0a&right_color=00ffd4" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=footer" width="100%" alt="Footer Wave" />
+</p>

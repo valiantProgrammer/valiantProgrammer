@@ -1,0 +1,19 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="c"><rect width="800" height="60" rx="12"/></clipPath></defs>
+  <style>
+    .t{font:600 16px 'Courier New',monospace;fill:#00FFD4}
+    .row{animation:scroll 18s linear infinite}
+    @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-1040px)}}
+  </style>
+  <rect width="800" height="60" rx="12" fill="#0a0a0a" stroke="#00CED1"/>
+  <g clip-path="url(#c)"><g class="row">
+    <text class="t" x="20" y="36">Python</text><text class="t" x="150" y="36">PyTorch</text>
+    <text class="t" x="280" y="36">TensorFlow</text><text class="t" x="410" y="36">OpenCV</text>
+    <text class="t" x="540" y="36">scikit-learn</text><text class="t" x="670" y="36">React</text>
+    <text class="t" x="800" y="36">Next.js</text><text class="t" x="930" y="36">MongoDB</text>
+    <text class="t" x="1060" y="36">Python</text><text class="t" x="1190" y="36">PyTorch</text>
+    <text class="t" x="1320" y="36">TensorFlow</text><text class="t" x="1450" y="36">OpenCV</text>
+    <text class="t" x="1580" y="36">scikit-learn</text><text class="t" x="1710" y="36">React</text>
+    <text class="t" x="1840" y="36">Next.js</text><text class="t" x="1970" y="36">MongoDB</text>
+  </g></g>
+</svg>
