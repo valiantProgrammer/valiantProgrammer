@@ -1,3 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200"><style>* {
-          font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif
-        }</style><g class="gpsc-root"><rect x="1" y="1" rx="5" ry="5" height="99%" width="99.41176470588235%" stroke="#141321" stroke-width="1" fill="#141321" stroke-opacity="1"></rect><text x="30" y="40" class="gpsc-item" style="--gpsc-i: 0; font-size: 22px; fill: #fe428e;">Top Languages by Commit</text><g transform="translate(0,40)"><g transform="translate(40,0)"><rect y="18" width="14" height="14" class="gpsc-item" style="--gpsc-i: 0; stroke-width: 1px;" fill="#f1e05a" stroke="#141321"></rect><rect y="43.2" width="14" height="14" class="gpsc-item" style="--gpsc-i: 1; stroke-width: 1px;" fill="#DA5B0B" stroke="#141321"></rect><rect y="68.4" width="14" height="14" class="gpsc-item" style="--gpsc-i: 2; stroke-width: 1px;" fill="#3572A5" stroke="#141321"></rect><rect y="93.60000000000002" width="14" height="14" class="gpsc-item" style="--gpsc-i: 3; stroke-width: 1px;" fill="#663399" stroke="#141321"></rect><rect y="118.80000000000001" width="14" height="14" class="gpsc-item" style="--gpsc-i: 4; stroke-width: 1px;" fill="#e34c26" stroke="#141321"></rect><text x="16.8" y="30" class="gpsc-item" style="--gpsc-i: 0; fill: #a9fef7; font-size: 14px;">JavaScript</text><text x="16.8" y="55.2" class="gpsc-item" style="--gpsc-i: 1; fill: #a9fef7; font-size: 14px;">Jupyter Notebook</text><text x="16.8" y="80.4" class="gpsc-item" style="--gpsc-i: 2; fill: #a9fef7; font-size: 14px;">Python</text><text x="16.8" y="105.60000000000002" class="gpsc-item" style="--gpsc-i: 3; fill: #a9fef7; font-size: 14px;">CSS</text><text x="16.8" y="130.8" class="gpsc-item" style="--gpsc-i: 4; fill: #a9fef7; font-size: 14px;">HTML</text></g><g transform="translate( 230, 80 )"><g class="arc" style="--gpsc-i: 0;"><path d="M3.67394039744206e-15,-60A60,60,0,0,1,44.62430138573889,40.10825009689081L26.03084247501435,23.396479223186308A35,35,0,0,0,2.1431318985078682e-15,-35Z" style="fill: #f1e05a; stroke-width: 2px;" stroke="#141321"></path></g><g class="arc" style="--gpsc-i: 1;"><path d="M44.62430138573889,40.10825009689081A60,60,0,0,1,-59.46916986024043,7.963531637023335L-34.69034908514025,4.645393454930279A35,35,0,0,0,26.03084247501435,23.396479223186308Z" style="fill: #DA5B0B; stroke-width: 2px;" stroke="#141321"></path></g><g class="arc" style="--gpsc-i: 2;"><path d="M-59.46916986024043,7.963531637023335A60,60,0,0,1,-14.239601992266905,-58.285793595882595L-8.306434495489029,-34.000046264264846A35,35,0,0,0,-34.69034908514025,4.645393454930279Z" style="fill: #3572A5; stroke-width: 2px;" stroke="#141321"></path></g><g class="arc" style="--gpsc-i: 3;"><path d="M-14.239601992266905,-58.285793595882595A60,60,0,0,1,-6.377609138841932,-59.66008801260823L-3.720271997657794,-34.8017180073548A35,35,0,0,0,-8.306434495489029,-34.000046264264846Z" style="fill: #663399; stroke-width: 2px;" stroke="#141321"></path></g><g class="arc" style="--gpsc-i: 4;"><path d="M-6.377609138841932,-59.66008801260823A60,60,0,0,1,-1.1021821192326178e-14,-60L-6.429395695523604e-15,-35A35,35,0,0,0,-3.720271997657794,-34.8017180073548Z" style="fill: #e34c26; stroke-width: 2px;" stroke="#141321"></path></g></g></g></g></svg>
+<svg width="450" height="200" viewBox="0 0 450 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 700 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #00FFD4; }
+    .lang { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #a9fef7; }
+    .pct { font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #808080; }
+  </style>
+  <rect width="450" height="200" rx="10" fill="#0a0a0a" stroke="#00CED1" stroke-width="1.5" />
+  <text x="30" y="38" class="title">Most Used Languages</text>
+
+  <!-- Progress Bar Container -->
+  <g transform="translate(30, 60)">
+    <clipPath id="bar-clip-0a0a0a">
+      <rect width="390" height="12" rx="6" />
+    </clipPath>
+    <g clip-path="url(#bar-clip-0a0a0a)">
+      <rect x="0" y="0" width="160" height="12" fill="#00FFD4" />
+      <rect x="160" y="0" width="125" height="12" fill="#00CED1" />
+      <rect x="285" y="0" width="55" height="12" fill="#3b82f6" />
+      <rect x="340" y="0" width="30" height="12" fill="#8b5cf6" />
+      <rect x="370" y="0" width="20" height="12" fill="#ec4899" />
+    </g>
+  </g>
+
+  <g transform="translate(30, 95)">
+    <!-- Column 1 -->
+    <circle cx="8" cy="8" r="4" fill="#00FFD4" />
+    <text x="20" y="12" class="lang">Python <tspan class="pct">41.0%</tspan></text>
+
+    <circle cx="8" cy="38" r="4" fill="#00CED1" />
+    <text x="20" y="42" class="lang">JavaScript <tspan class="pct">32.0%</tspan></text>
+
+    <circle cx="8" cy="68" r="4" fill="#3b82f6" />
+    <text x="20" y="72" class="lang">Jupyter Notebook <tspan class="pct">14.1%</tspan></text>
+
+    <!-- Column 2 -->
+    <circle cx="210" cy="8" r="4" fill="#8b5cf6" />
+    <text x="222" y="12" class="lang">TypeScript <tspan class="pct">7.7%</tspan></text>
+
+    <circle cx="210" cy="38" r="4" fill="#ec4899" />
+    <text x="222" y="42" class="lang">CSS / HTML <tspan class="pct">5.2%</tspan></text>
+  </g>
+</svg>

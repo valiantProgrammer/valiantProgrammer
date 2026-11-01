@@ -11,17 +11,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </div>
 
-## ⚡ About Me
+## // 01. ABOUT ME
 
-- 🔭 **Currently building:** Deep learning & full-stack web solutions for civic automation ([Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)) and scalable commerce ([Belle Mart](https://github.com/valiantProgrammer/E-commerce)).
-- 🧠 **Exploring:** Convolutional neural networks, computer vision inference pipelines, and distributed backend architectures.
-- 💼 **Open to:** AI/ML Engineer & Full-Stack Developer internship opportunities and technical collaborations.
+▸ **Currently building:** Deep learning & full-stack web solutions for civic automation ([Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)) and scalable commerce ([Belle Mart](https://github.com/valiantProgrammer/E-commerce)).  
+▸ **Exploring:** Convolutional neural networks, computer vision inference pipelines, and distributed backend architectures.  
+▸ **Open to:** AI/ML Engineer & Full-Stack Developer internship opportunities and technical collaborations.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## 🛠️ Tech Stack
+## // 02. TECH STACK
 
 <p align="center">
   <img src="assets/tech-marquee.svg" width="100%" alt="Animated Tech Marquee" />
@@ -39,12 +39,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## 🚀 Featured Projects
+## // 03. FEATURED PROJECTS
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🏛️ <a href="https://github.com/valiantProgrammer/Civic-Issues">Civic-Saathi</a></h3>
+      <h3>◈ <a href="https://github.com/valiantProgrammer/Civic-Issues">Civic-Saathi</a></h3>
       <p>AI-driven civic issue reporting platform leveraging MobileNetV2 image classification to connect citizens and municipal authorities.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -57,7 +57,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🛍️ <a href="https://github.com/valiantProgrammer/E-commerce">Belle Mart</a></h3>
+      <h3>◈ <a href="https://github.com/valiantProgrammer/E-commerce">Belle Mart</a></h3>
       <p>Full-stack e-commerce application powered by Python backend APIs, Next.js interface, Razorpay payment processing, and email OTP verification.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -73,14 +73,14 @@
 </table>
 
 <p align="center">
-  <sub><em>⚡ Note: Free-tier deployments may take 30–50 seconds to spin up on initial access.</em></sub>
+  <sub><em>▸ Note: Free-tier deployments may take 30–50 seconds to spin up on initial access.</em></sub>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## 📊 Analytics & Activity
+## // 04. ANALYTICS & ACTIVITY
 
 <p align="center">
   <picture>
@@ -128,7 +128,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## 🌐 Connect With Me
+## // 05. CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupdey/" target="_blank">
