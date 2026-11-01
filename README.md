@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </div>
 
-## // 01. ABOUT ME
+## <img src="assets/icons/user.svg" width="22" height="22" valign="middle" /> About Me
 
 ▸ **Currently building:** Deep learning & full-stack web solutions for civic automation ([Civic-Saathi](https://github.com/valiantProgrammer/Civic-Issues)) and scalable commerce ([Belle Mart](https://github.com/valiantProgrammer/E-commerce)).  
 ▸ **Exploring:** Convolutional neural networks, computer vision inference pipelines, and distributed backend architectures.  
@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## // 02. TECH STACK
+## <img src="assets/icons/cpu.svg" width="22" height="22" valign="middle" /> Tech Stack
 
 <p align="center">
   <img src="assets/tech-marquee.svg" width="100%" alt="Animated Tech Marquee" />
@@ -39,12 +39,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## // 03. FEATURED PROJECTS
+## <img src="assets/icons/browser.svg" width="22" height="22" valign="middle" /> Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>◈ <a href="https://github.com/valiantProgrammer/Civic-Issues">Civic-Saathi</a></h3>
+      <h3><a href="https://github.com/valiantProgrammer/Civic-Issues">Civic-Saathi</a></h3>
       <p>AI-driven civic issue reporting platform leveraging MobileNetV2 image classification to connect citizens and municipal authorities.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -57,7 +57,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>◈ <a href="https://github.com/valiantProgrammer/E-commerce">Belle Mart</a></h3>
+      <h3><a href="https://github.com/valiantProgrammer/E-commerce">Belle Mart</a></h3>
       <p>Full-stack e-commerce application powered by Python backend APIs, Next.js interface, Razorpay payment processing, and email OTP verification.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -80,7 +80,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## // 04. ANALYTICS & ACTIVITY
+## <img src="assets/icons/chart.svg" width="22" height="22" valign="middle" /> Analytics & Activity
 
 <p align="center">
   <img src="stats-dashboard.svg" width="100%" alt="Developer Stats Dashboard" />
@@ -110,7 +110,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Neon Divider" />
 </p>
 
-## // 05. CONNECT
+## <img src="assets/icons/network.svg" width="22" height="22" valign="middle" /> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupdey/" target="_blank">
